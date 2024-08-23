@@ -49,6 +49,7 @@ Il faut installer forge pour la version 1.20.1
 7-> relancer le jeu et c'est bon
 
 Liste Mod Lucas
+```
 RGP Style More Weapon
 Winery
 Botania
@@ -63,3 +64,4 @@ AdditionalEnchantedMiner
 THT (Truc des arbres)
 Region Unexplored
 Productive Bees
+```
