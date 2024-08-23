@@ -47,3 +47,19 @@ Il faut installer forge pour la version 1.20.1
 5-> Télécharger les mods contenu ici : https://github.com/vgauther/mc_forge_1_20_6/tree/main en cliquant sur Code en Vert puis Download as Zip
 6-> Dézipper et mettre le contenu du dossier mods dans le .minecraft/mods (si le dossier mods n'existe pas il faut le créer) pour aller dans le .minecraft faire Windows + R et entrer %appdata% 
 7-> relancer le jeu et c'est bon
+
+Liste Mod Lucas
+RGP Style More Weapon
+Winery
+Botania
+Dungeons And Taverns
+Epic Dungeons
+Applaied Energistics
+Warp Portals
+Rotted
+Minecolonies
+Gravestone
+AdditionalEnchantedMiner
+THT (Truc des arbres)
+Region Unexplored
+Productive Bees
